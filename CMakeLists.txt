@@ -3,4 +3,4 @@ project(ITPAssignment2)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(ITPAssignment2 rts_game.cpp)
+add_executable(ITPAssignment2 Inchin_Ivan.cpp)
